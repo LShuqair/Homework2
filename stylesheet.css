@@ -18,7 +18,10 @@ body {
     
     }
      
-
+h2{
+    font-size: 25px;
+    margin-left: 15px;
+}
 .container1 {
     position: fixed;
     left: 0;
@@ -47,10 +50,18 @@ p.paragraph {
     margin:20px;
 }
 
+#p2{
+    margin-top: 15px;
+
+}
 .card{
     padding: auto;
     margin: auto;
 
+}
+#social{
+   float: left; 
+   margin-left: 10px;
 }
 .cardbody1{
     color: black;
