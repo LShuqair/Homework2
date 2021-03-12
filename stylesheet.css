@@ -11,7 +11,9 @@ body {
      border: 1px solid #665544;
      background-color: #efefef;
      padding: auto;
-     margin: 20px 5px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     margin-left: 20%;
      font-family: 'Fondamento', cursive;
      
     
@@ -20,7 +22,9 @@ body {
      
 h2{
     font-size: 25px;
-    margin-left: 15px;
+    margin-top: 12px;
+    margin-left: 80%;
+    text-align: center;
 }
 .container1 {
     position: fixed;
@@ -31,8 +35,10 @@ h2{
     color: white;
     text-align: center;
     font-family: 'Fondamento', cursive;
-    margin: auto;
-    padding: auto;
+    
+    /* margin: auto;
+    padding: auto; */
+  
 }
 
 .container2 {
@@ -77,6 +83,7 @@ p.paragraph {
     text-align: center;
     margin: auto;
     padding: auto;
+  
 }
 
 
