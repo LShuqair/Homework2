@@ -1,8 +1,4 @@
 # Portfolio
-A web-application can be used in any browser available. The application has information about myself that contains about me page, a portfolio page about my projects, and a contact page that let users contact with me. 
-
-
-
 
 ## LINK TO THE REPOSITORY
 
